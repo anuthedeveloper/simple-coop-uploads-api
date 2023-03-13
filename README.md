@@ -8,12 +8,12 @@ Uploads with Php Spreadsheet plugin
 
 Format includes: spreadsheet sheets, xls, xlsx, csv
 
-[
-'application/vnd.ms-excel',
-'text/xls',
-'text/xlsx',
-'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
-'text/csv'
-]
+     [
+      'application/vnd.ms-excel',
+      'text/xls',
+      'text/xlsx',
+      'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+      'text/csv'
+     ]
 
 Modify the init file to your own database connection
