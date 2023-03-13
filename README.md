@@ -1,6 +1,6 @@
 ## simple-coop-uploads-api
 
-Simple PHP and Sql Server API to serve uploads for .NET cooperatives web applications
+Simple PHP and Sql Server API to serve uploads for web applications
 
 #### PhpSpreadsheet
 
