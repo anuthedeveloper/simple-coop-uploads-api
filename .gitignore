@@ -1,8 +1,5 @@
 # files uploads 
 uploads/
 
-# php spreadsheet
-src/
-
 # composer vendor
 vendor/

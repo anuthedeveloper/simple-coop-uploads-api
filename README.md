@@ -17,3 +17,7 @@ Format includes: spreadsheet sheets, xls, xlsx, csv
 ]
 
 Modify the init file to your own database connection
+
+#### Usage
+
+To include the spreadsheet plugin: Run composer install
